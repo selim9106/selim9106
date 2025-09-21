@@ -14,24 +14,30 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Ely&bull;Se</h1>
-<h3 align="center">Junior Front-end Developer</h3>
+<h1 align="center">Ely's Angels</h1>
+<h3 align="center">UX/UI Designer</h3>
 
-Hi Everyone. I'm a newbie Front-end Developer from Belgium. I was graduated in Advertising (2012) and Education (2016).   
-I used to work with children, teenagers, refugees, adults with disabilities.   
-Today my wish is to go back to Graphic Design, UX/UI and webdevelopment. I'm currently following a Webdev bootcamp @ [Becode.org](https://github.com/becodeorg).
+👨‍🎓 UX/UI design student transitioning from a background in social work and education.  
+Experienced in hospitality, logistics, and diverse teamwork environments through a **Working Holiday in Australia** 🇦🇺 (2023).  
 
-- 🌱 I’m currently learning **Front-end developement @ Becode.org, UX/UI Design (Google certificate), Javascript, React and more**
+🌱 Currently enrolled at **IFOSUP Wavre (Belgium)** and pursuing self-learning in UX/UI through **Coursera**, Udemy, and specialized resources.  
+Skilled in **Figma, wireframing, prototyping, and user-centered design**.  
 
-<!-- - 👨‍💻 All of my projects are available at [TBA](TBA)-->
+Looking to collaborate on projects where I can combine human-centered thinking, adaptability, and design skills to create intuitive and impactful digital experiences.
 
-- 📫 Reach me @ **selim.elyahyioui@gmail.com**
+:honeybee: beehive member
+🇧🇪🍺:
+
+<!-- - - 🌱 I’m currently learning **Front-end developement @ Becode.org, UX/UI Design (Google certificate), Javascript, React and more**
+
+👨‍💻 All of my projects are available at [TBA](TBA)-->
+
+📫 Reach me @ **selim.elyahyioui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/selim-ely" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selim-ely" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/selim-ely" target="blank"><img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/linkedin.svg" alt="selim-ely" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
@@ -60,7 +66,9 @@ Today my wish is to go back to Graphic Design, UX/UI and webdevelopment. I'm cur
   <!-- Illustrator -->
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
   <!-- Photoshop -->
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a>
    <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>-->     </p>
-
+<!-- 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=selim9106&show_icons=true&locale=en&layout=compact" alt="selim9106" /></p>
+
+-->
